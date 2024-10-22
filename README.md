@@ -2,7 +2,7 @@
 
 My name is John Adams, and I am a test engineer!
 
-## Checkout This links For More Info:
+## Checkout This link For More Info:
 
  - [LinkedIn](https://www.linkedin.com/in/john8576/)
  
